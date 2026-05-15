@@ -3,10 +3,31 @@
     <title>Cerebyte</title>
     <link href="https://cerebyte-inc.github.io/feed.xml" rel="self" />
     <link href="https://cerebyte-inc.github.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-05-15T12:56:32+05:30</updated>
     <author>
         <name>AR</name>
     </author>
     <id>https://cerebyte-inc.github.io</id>
 
+    <entry>
+        <title>Test1</title>
+        <author>
+            <name>AR</name>
+        </author>
+        <link href="https://cerebyte-inc.github.io/test1/"/>
+        <id>https://cerebyte-inc.github.io/test1/</id>
+            <category term="Minimalist Design"/>
+
+        <updated>2026-05-15T12:56:32+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    #Minimalist Design
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>#Minimalist Design</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
